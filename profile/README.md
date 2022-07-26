@@ -1,12 +1,3 @@
-## Hi there 👋
+## JuliaEpi 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The project consists in the development of an epidemiological modelling ecosystem written in Julia for the design, management, wrangling and quality assessment of multiple data types and sources and the parameterisation, calibration, validation, simulation and emulation of multiple classes of epidemiological models aimed at tackling typical problems such as situational awareness, nowcasting projection and evaluation, forecasting projection and evaluation, prospective and retrospective scenario analysis to ultimately support the preparedness, surveillance, response, control and prevention of outbreaks, epidemics and pandemics.
