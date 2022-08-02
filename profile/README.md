@@ -15,3 +15,9 @@ Would you be interested in joining us to collaborate on the management and wrang
 Then please contact us and let us know 
 - if you're interested to offer your contribution or you know students/researchers/developers who might be interested in collaborating;
 - if you believe you could [transfer](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository) some of your relevant repositories to JuliaEpi. 
+
+## Announcements 
+
+- [Twitter](https://twitter.com/EpiJulia/status/1553756944443260929?s=20&t=nnrFo9lBrJii5-Ht_CZ4XQ)
+- [Julia Forem](https://forem.julialang.org/inphyt/ann-juliaepi-collaborative-computational-epidemiology-in-julia-19ng)
+- [Julia Discourse](https://discourse.julialang.org/t/ann-juliaepi-collaborative-computational-epidemiology-in-julia/85131)
