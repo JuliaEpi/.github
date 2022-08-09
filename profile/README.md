@@ -18,6 +18,8 @@ Then please contact us and let us know
 
 ## Announcements 
 
+Please also check [Discussions](https://github.com/orgs/JuliaEpi/discussions) for current projects or project ideas. 
+
 - [Twitter](https://twitter.com/EpiJulia/status/1553756944443260929?s=20&t=nnrFo9lBrJii5-Ht_CZ4XQ)
 - [Julia Forem](https://forem.julialang.org/inphyt/ann-juliaepi-collaborative-computational-epidemiology-in-julia-19ng)
 - [Julia Discourse](https://discourse.julialang.org/t/ann-juliaepi-collaborative-computational-epidemiology-in-julia/85131)
