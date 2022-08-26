@@ -9,7 +9,7 @@ We're building an open research community to develop an epidemiological modellin
 ## Current Projects 
 
 - [Translating {EpiNow2} to Julia](https://github.com/orgs/JuliaEpi/discussions/1) ([Team](https://github.com/orgs/JuliaEpi/teams/epinow2))
-- [Translating {Nowcaster} to Julia](https://github.com/orgs/JuliaEpi/discussions/1) ([Team](https://github.com/orgs/JuliaEpi/teams/nowcaster))
+- [Translating {Nowcaster} to Julia](https://github.com/orgs/JuliaEpi/discussions/2) ([Team](https://github.com/orgs/JuliaEpi/teams/nowcaster))
 
 Please check the [organisation-level discussions](https://github.com/orgs/JuliaEpi/discussions) for current projects or project ideas. 
 
