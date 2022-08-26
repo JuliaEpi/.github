@@ -4,13 +4,13 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EpiJulia)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC6KrQLy_G2gKB11Fvi_4x5Q)
 
-We're building an open research community to develop an epidemiological modelling ecosystem written in Julia for the design, management, wrangling and quality assessment of multiple data types and sources and the parameterisation, calibration, validation, simulation and emulation of multiple classes of epidemiological models aimed at tackling typical problems such as situational awareness, nowcasting projection and evaluation, forecasting projection and evaluation, prospective and retrospective scenario analysis to ultimately support the preparedness, surveillance, response, control and prevention of outbreaks, epidemics and pandemics.
+We're building an open research community to develop an epidemiological modelling ecosystem written in [Julia](https://julialang.org) for the design, management, wrangling and quality assessment of multiple data types and sources and the parameterisation, calibration, validation, simulation and emulation of multiple classes of epidemiological models aimed at tackling typical problems such as situational awareness, nowcasting projection and evaluation, forecasting projection and evaluation, prospective and retrospective scenario analysis to ultimately support the preparedness, surveillance, response, control and prevention of outbreaks, epidemics and pandemics.
 
 ## Current Projects 
 
 - [Translating {EpiNow2} to Julia](https://github.com/orgs/JuliaEpi/discussions/1) ([Team](https://github.com/orgs/JuliaEpi/teams/epinow2))
 
-Please check the organisation-level [Discussions](https://github.com/orgs/JuliaEpi/discussions) for current projects or project ideas. 
+Please check the [organisation-level discussions](https://github.com/orgs/JuliaEpi/discussions) for current projects or project ideas. 
 
 ## Contact Us  
 
